@@ -1,5 +1,5 @@
 body{
-    background-color:green;
+    background-color: bisque;
 }
 
 img{
@@ -16,5 +16,31 @@ h2{
         text-align:center:
         color: red;
 
+    }
+#jalen{
+background-color: blueviolet;
+}
 
-         }
+.dablocks{
+background-color:brown;
+}
+
+#static{
+ background-color:red;
+}
+
+#relative{
+    background-color: blue;
+}
+
+#Drip{
+    background-color: blueviolet;
+}
+
+#Absolute{
+    background-color:greenyellow
+}
+
+#Fixed{
+    background-color:brown;
+}
