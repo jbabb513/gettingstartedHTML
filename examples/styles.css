@@ -12,6 +12,13 @@ h2{
 
     }
 
+
+
+
+
+
+
+
     p{
         text-align:center:
         color: red;
@@ -23,10 +30,12 @@ background-color: blueviolet;
 
 .dablocks{
 background-color:brown;
+font-family: 'Nunito', sans-serif;
 }
 
 #static{
  background-color:red;
+ font-family: 'Saira Stencil One', cursive;
 }
 
 #relative{
