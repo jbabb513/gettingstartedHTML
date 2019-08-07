@@ -8,9 +8,14 @@ img{
 }
 
 h2{
-    color: white:
+    color: white;
 
     }
+
+    a:visited {
+  color: #00FF00;
+}
+
 
 
 
